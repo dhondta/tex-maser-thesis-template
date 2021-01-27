@@ -3,7 +3,7 @@ title: LaTeX Master Thesis Template
 layout: page
 use-site-title: false
 ---
-# LaTeX Master Thesis Template
+## Introduction
 
 The goal of this template is to provide a nice-looking master thesis dissertation layout, easy to configure and fill in.
 
